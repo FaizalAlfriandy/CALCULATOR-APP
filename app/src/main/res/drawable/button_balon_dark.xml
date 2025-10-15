@@ -2,13 +2,10 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
 
-    <!-- Warna abu gelap -->
     <solid android:color="#2B2B2B" />
 
-    <!-- Sudut melengkung (seperti balon) -->
     <corners android:radius="30dp" />
 
-    <!-- Tambahkan sedikit bayangan halus -->
     <padding
         android:left="4dp"
         android:top="4dp"
